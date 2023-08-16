@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="t_white">#FFFFFFFF</color>
+
+    <color name="colorPrimary">#007ee5</color>
+    <color name="colorPrimaryDark">#5f646a</color>
+    <color name="colorAccent">#EEAE17</color>
+
+    <color name="primaryTextColor">#99000000</color>
+    <color name="secondaryTextColor">@color/colorPrimary</color>
+    <color name="secondaryHeaderTextColor">#243167</color>
+    <color name="lightTextColor">#7c7f82</color>
+    <color name="accentTextColor">@color/colorAccent</color>
+
+    <color name="primaryBgColor">@color/white</color>
+    <color name="secondaryBgColor">#31E3E3E3</color>
+
+    <color name="semi_black_transparent">#99000000</color>
+
+    <color name="primaryBtnColor">#2d2d2d</color>
+    <color name="dark_gray_color">#939292</color>
+
+    <color name="tab_selected_text_color">@color/primaryTextColor</color>
+    <color name="tab_un_selected_text_color">@color/lightTextColor</color>
+    <color name="tab_indicator_color">#dc3b06</color>
+
+    <color name="pink_color">#f91755</color>
+
+    <color name="darkBlue">#1500FF</color>
+    <color name="lightBlue">#1976D3</color>
+    <color name="green">#099643</color>
+    <color name="darkGreen">#096461</color>
+    <color name="light_green">#CD5AA600</color>
+    <color name="red">#990000</color>
+    <color name="light_red">#F14F4F</color>
+
+    <color name="secondary_text_color">@color/white</color>
+    <color name="placeholder_bg">#D1D0D0</color>
+    <color name="transparent_gray">#0FD3C8C8</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="in_app_snack_bar_text_color">#37474F</color>
+
+
+</resources>

@@ -1,0 +1,76 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="dp_0_px">0dp</dimen>
+    <dimen name="dp_0_5_px">0.5dp</dimen>
+    <dimen name="dp_1_px">1dp</dimen>
+    <dimen name="dp_2_px">2dp</dimen>
+    <dimen name="dp_3_px">3dp</dimen>
+    <dimen name="dp_5_px">5dp</dimen>
+    <dimen name="dp_7_px">7dp</dimen>
+    <dimen name="dp_8_px">8dp</dimen>
+    <dimen name="dp_10_px">10dp</dimen>
+    <dimen name="dp_12_px">12dp</dimen>
+    <dimen name="dp_15_px">15dp</dimen>
+    <dimen name="dp_16_px">16dp</dimen>
+    <dimen name="dp_18_px">18dp</dimen>
+    <dimen name="dp_20_px">20dp</dimen>
+    <dimen name="dp_24_px">24dp</dimen>
+    <dimen name="dp_25_px">25dp</dimen>
+    <dimen name="dp_30_px">30dp</dimen>
+    <dimen name="dp_32_px">32dp</dimen>
+    <dimen name="dp_35_px">35dp</dimen>
+    <dimen name="dp_40_px">40dp</dimen>
+    <dimen name="dp_45_px">45dp</dimen>
+    <dimen name="dp_48_px">48dp</dimen>
+    <dimen name="dp_50_px">50dp</dimen>
+    <dimen name="neg_dp_50_px">-50dp</dimen>
+    <dimen name="dp_60_px">60dp</dimen>
+    <dimen name="dp_80_px">80dp</dimen>
+    <dimen name="dp_90_px">90dp</dimen>
+    <dimen name="dp_100_px">100dp</dimen>
+    <dimen name="dp_110_px">110dp</dimen>
+    <dimen name="dp_120_px">120dp</dimen>
+    <dimen name="dp_130_px">130dp</dimen>
+    <dimen name="dp_140_px">140dp</dimen>
+    <dimen name="dp_150_px">150dp</dimen>
+    <dimen name="dp_160_px">160dp</dimen>
+    <dimen name="dp_170_px">170dp</dimen>
+    <dimen name="dp_180_px">180dp</dimen>
+    <dimen name="dp_190_px">190dp</dimen>
+    <dimen name="dp_200_px">200dp</dimen>
+    <dimen name="dp_230_px">230dp</dimen>
+    <dimen name="dp_250_px">250dp</dimen>
+    <dimen name="dp_260_px">260dp</dimen>
+    <dimen name="dp_280_px">280dp</dimen>
+    <dimen name="dp_300_px">300dp</dimen>
+
+
+    <!--Font sizes-->
+    <dimen name="sp_11_px">11sp</dimen>
+    <dimen name="sp_12_px">12sp</dimen>
+    <dimen name="sp_13_px">13sp</dimen>
+    <dimen name="sp_14_px">14sp</dimen>
+    <dimen name="sp_16_px">16sp</dimen>
+    <dimen name="sp_18_px">18sp</dimen>
+    <dimen name="sp_20_px">20sp</dimen>
+    <dimen name="sp_24_px">24sp</dimen>
+    <dimen name="sp_26_px">26sp</dimen>
+    <dimen name="sp_28_px">28sp</dimen>
+    <dimen name="sp_30_px">30sp</dimen>
+    <dimen name="sp_32_px">32sp</dimen>
+
+    <dimen name="button_height">@dimen/dp_50_px</dimen>
+    <dimen name="button_height_half">25dp</dimen>
+
+    <dimen name="toolbar_height">56dp</dimen>
+
+    <dimen name="otp_view_item_size">48dp</dimen>
+    <dimen name="otp_view_item_radius">5dp</dimen>
+    <dimen name="otp_view_item_spacing">5dp</dimen>
+    <dimen name="otp_view_item_line_width">2dp</dimen>
+    <dimen name="otp_view_cursor_width">2dp</dimen>
+
+</resources>

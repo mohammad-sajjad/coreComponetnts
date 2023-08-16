@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/dummy_base_toolbar"
+        android:background="@color/white">
+
+        <ImageButton
+            android:id="@+id/image_back_button"
+            android:layout_width="@dimen/dp_32_px"
+            android:layout_height="@dimen/dp_32_px"
+            android:layout_centerVertical="true"
+            android:background="@android:color/transparent"
+            android:src="@drawable/ic_arrow_back"
+            app:tint="@color/black"
+            android:contentDescription="@string/back_to_the_previous_screen" />
+
+        <TextView
+            android:id="@+id/text_screen_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toEndOf="@+id/image_back_button"
+            android:paddingStart="@dimen/dp_24_px"
+            android:textColor="@color/black"
+            android:textSize="@dimen/sp_16_px"
+            tools:text="Screen Title" />
+
+        <ImageButton
+            android:id="@+id/image_more_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:layout_centerVertical="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginEnd="@dimen/dp_16_px"
+            tools:ignore="ContentDescription" />
+    </RelativeLayout>
+</layout>
